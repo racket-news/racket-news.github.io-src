@@ -1,3 +1,7 @@
+# DISCLAIMER:
+
+I am at the moment moving things around and force-pushing here to reorganize the story of Racket News to make it more understandable to the public. Please be careful when forking and pulling.
+
 # Racket News
 
 ## Projects in the Spotlight
